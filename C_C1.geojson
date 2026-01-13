@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "name": "C_C1",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Herur",
+        "A": "GP_Layer_Ring_C-C1",
+        "Address": "After Survey",
+        "Classification": "ONT",
+        "Dt_Code": 564,
+        "Dt_Name": "HAVERI",
+        "E_Status": "After Survey",
+        "GP_Survey_": "G006",
+        "Geo_Photo": "After Survey",
+        "Lat": 14.723,
+        "Long": 75.2675,
+        "ONT_Status": "After Survey",
+        "Phase": 1,
+        "Power_Stat": "After Survey",
+        "Remarks": "After Survey",
+        "Ring_ID": "C-C1",
+        "Site_code": 218490,
+        "Site_name": "Herur",
+        "St_Code": 29,
+        "St_Name": "KARNATAKA",
+        "Type": "GP",
+        "parent_site_code": 5855,
+        "parent_site_name": "HANGAL",
+        "text_padding": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2674906, 14.7230068, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Uppunasi",
+        "A": "GP_Layer_Ring_C-C1",
+        "Address": "After Survey",
+        "Classification": "ONT",
+        "Dt_Code": 564,
+        "Dt_Name": "HAVERI",
+        "E_Status": "After Survey",
+        "GP_Survey_": "G007",
+        "Geo_Photo": "After Survey",
+        "Lat": 14.7157,
+        "Long": 75.2901,
+        "ONT_Status": "After Survey",
+        "Phase": 1,
+        "Power_Stat": "After Survey",
+        "Remarks": "After Survey",
+        "Ring_ID": "C-C1",
+        "Site_code": 218517,
+        "Site_name": "Uppunasi",
+        "St_Code": 29,
+        "St_Name": "KARNATAKA",
+        "Type": "GP",
+        "parent_site_code": 5855,
+        "parent_site_name": "HANGAL",
+        "text_padding": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2900917, 14.7156788, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kalavarkoppa",
+        "A": "GP_Layer_Ring_C-C1",
+        "Address": "After Survey",
+        "Classification": "ONT",
+        "Dt_Code": 564,
+        "Dt_Name": "HAVERI",
+        "E_Status": "After Survey",
+        "GP_Survey_": "G008",
+        "Geo_Photo": "After Survey",
+        "Lat": 14.6576,
+        "Long": 75.273,
+        "ONT_Status": "After Survey",
+        "Phase": 1,
+        "Power_Stat": "After Survey",
+        "Remarks": "After Survey",
+        "Ring_ID": "C-C1",
+        "Site_code": 218496,
+        "Site_name": "Kalavarkoppa",
+        "St_Code": 29,
+        "St_Name": "KARNATAKA",
+        "Type": "GP",
+        "parent_site_code": 5855,
+        "parent_site_name": "HANGAL",
+        "text_padding": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2730028, 14.6575892, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Somasagara",
+        "A": "GP_Layer_Ring_C-C1",
+        "Address": "After Survey",
+        "Classification": "ONT",
+        "Dt_Code": 564,
+        "Dt_Name": "HAVERI",
+        "E_Status": "After Survey",
+        "GP_Survey_": "G009",
+        "Geo_Photo": "After Survey",
+        "Lat": 14.6994,
+        "Long": 75.2947,
+        "ONT_Status": "After Survey",
+        "Phase": 1,
+        "Power_Stat": "After Survey",
+        "Remarks": "After Survey",
+        "Ring_ID": "C-C1",
+        "Site_code": 218514,
+        "Site_name": "Somasagara",
+        "St_Code": 29,
+        "St_Name": "KARNATAKA",
+        "Type": "GP",
+        "parent_site_code": 5855,
+        "parent_site_name": "HANGAL",
+        "text_padding": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.2946732, 14.6994435, 0.0]
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "District layer",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Dangal", "Site_code": 564, "Site_name": "HAVERI", "Type": "District", "line_dash": 4, "parent_site_code": "null", "parent_site_id": "null", "text_padding": 22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 74.7257846, 14.8277069, 0.0 ], [ 74.7380382, 14.6122194, 0.0 ], [ 75.0578543, 14.4642205, 0.0 ], [ 75.4396056, 14.4835115, 0.0 ], [ 75.5476324, 14.8422174, 0.0 ], [ 75.2961948, 15.0993568, 0.0 ], [ 74.882278, 15.0188213, 0.0 ], [ 74.7257846, 14.8277069, 0.0 ] ] ] } }
+]
+}
