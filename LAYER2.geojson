@@ -1,0 +1,241 @@
+{
+  "type": "FeatureCollection",
+  "meta": {
+    "layer": "gp",
+    "geometryType": "Point",
+    "source": "kml",
+    "version": 1
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_1",
+        "layerType": "gp",
+        "name": "C",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2115846,
+          14.7036636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_2",
+        "layerType": "gp",
+        "name": "C",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1579085,
+          14.7540838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_3",
+        "layerType": "gp",
+        "name": "C",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2006871,
+          14.728995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_4",
+        "layerType": "gp",
+        "name": "C",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1647664,
+          14.7275906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_5",
+        "layerType": "gp",
+        "name": "C",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1818541,
+          14.7127024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_6",
+        "layerType": "gp",
+        "name": "C",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2210346,
+          14.6107492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_7",
+        "layerType": "gp",
+        "name": "C",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2286863,
+          14.6897155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_8",
+        "layerType": "gp",
+        "name": "C",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1904275,
+          14.6794786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_9",
+        "layerType": "gp",
+        "name": "C",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1991942,
+          14.6440269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_10",
+        "layerType": "gp",
+        "name": "C",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2342039,
+          14.624205
+        ]
+      }
+    }
+  ]
+}

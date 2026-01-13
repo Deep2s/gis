@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "meta": {
+    "layer": "district",
+    "geometryType": "Polygon",
+    "source": "kml",
+    "version": 1
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DISTRICT_1",
+        "layerType": "district",
+        "name": "HAVERI",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": null,
+        "parentName": "",
+        "ringId": "",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.7257846,
+              14.8277069
+            ],
+            [
+              74.7380382,
+              14.6122194
+            ],
+            [
+              75.0578543,
+              14.4642205
+            ],
+            [
+              75.4396056,
+              14.4835115
+            ],
+            [
+              75.5476324,
+              14.8422174
+            ],
+            [
+              75.2961948,
+              15.0993568
+            ],
+            [
+              74.882278,
+              15.0188213
+            ],
+            [
+              74.7257846,
+              14.8277069
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "meta": {
+    "layer": "gp",
+    "geometryType": "Point",
+    "source": "kml",
+    "version": 1
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_1",
+        "layerType": "gp",
+        "name": "C-C1",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C-C1",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2674906,
+          14.7230068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_2",
+        "layerType": "gp",
+        "name": "C-C1",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C-C1",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2900917,
+          14.7156788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_3",
+        "layerType": "gp",
+        "name": "C-C1",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C-C1",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2730028,
+          14.6575892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GP_4",
+        "layerType": "gp",
+        "name": "C-C1",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 5855,
+        "parentName": "HANGAL",
+        "ringId": "C-C1",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2946732,
+          14.6994435
+        ]
+      }
+    }
+  ]
+}

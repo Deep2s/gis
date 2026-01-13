@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "meta": {
+    "layer": "block",
+    "geometryType": "Point",
+    "source": "kml",
+    "version": 1
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLOCK_1",
+        "layerType": "block",
+        "name": "HANGAL",
+        "stateCode": 29,
+        "stateName": "KARNATAKA",
+        "districtCode": 564,
+        "districtName": "HAVERI",
+        "parentId": 564,
+        "parentName": "HAVERI",
+        "ringId": "",
+        "source": "kml-converted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1269498,
+          14.7695678
+        ]
+      }
+    }
+  ]
+}
